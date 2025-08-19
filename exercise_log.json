@@ -1,0 +1,118 @@
+{
+  "113315150": [
+    {
+      "date": "2025-08-18",
+      "exercise": "Tricep Extensions",
+      "weight": 25.0,
+      "reps": 12,
+      "sets": 4,
+      "exertion": 120.0
+    },
+    {
+      "date": "2025-08-18",
+      "exercise": "Barbell Row",
+      "weight": 70.0,
+      "reps": 12,
+      "sets": 4,
+      "exertion": 336.0
+    },
+    {
+      "date": "2025-08-18",
+      "exercise": "Hammer Curls",
+      "weight": 18.0,
+      "reps": 8,
+      "sets": 3,
+      "exertion": 43.2
+    },
+    {
+      "date": "2025-08-18",
+      "exercise": "Arnold Press",
+      "weight": 40.0,
+      "reps": 10,
+      "sets": 5,
+      "exertion": 300.0,
+      "volume": 2000.0
+    },
+    {
+      "date": "2025-08-18",
+      "exercise": "Bench Press",
+      "weight": 60.0,
+      "reps": 10,
+      "sets": 4,
+      "volume": 2400.0,
+      "exertion": 360.0
+    },
+    {
+      "date": "2025-08-18",
+      "exercise": "Squat",
+      "weight": 150.0,
+      "reps": 10,
+      "sets": 5,
+      "volume": 7500.0,
+      "exertion": 1125.0
+    },
+    {
+      "date": "2025-08-18",
+      "exercise": "Incline Bench",
+      "weight": 60.0,
+      "reps": 10,
+      "sets": 4,
+      "exertion": 360.0,
+      "volume": 2400.0
+    },
+    {
+      "date": "2025-08-18",
+      "exercise": "Dips",
+      "weight": 0.0,
+      "reps": 15,
+      "sets": 4,
+      "exertion": 0.0,
+      "volume": 0.0
+    },
+    {
+      "date": "2025-08-18",
+      "exercise": "Leg Press",
+      "weight": 120.0,
+      "reps": 10,
+      "sets": 3,
+      "exertion": 540.0,
+      "volume": 3600.0
+    },
+    {
+      "date": "2025-08-18",
+      "exercise": "Push-ups",
+      "weight": 70.0,
+      "reps": 40,
+      "sets": 1,
+      "exertion": 2800.0,
+      "volume": 2800.0
+    },
+    {
+      "date": "2025-08-18",
+      "exercise": "Bench Press",
+      "weight": 75.0,
+      "reps": 10,
+      "sets": 4,
+      "exertion": 3000.0,
+      "volume": 3000.0
+    },
+    {
+      "date": "2025-08-18",
+      "exercise": "Incline Bench Press",
+      "weight": 60.0,
+      "reps": 5,
+      "sets": 2,
+      "exertion": 60.0,
+      "volume": 600.0
+    },
+    {
+      "date": "2025-08-18",
+      "exercise": "Triceps Extension",
+      "weight": 110,
+      "reps": 7,
+      "sets": 3,
+      "volume": 2310,
+      "exertion": 231.0
+    }
+  ]
+}

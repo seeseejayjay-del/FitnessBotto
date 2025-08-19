@@ -1,0 +1,28 @@
+{
+  "113315150": [
+    {
+      "group": "Push",
+      "exercise": "Chest Press Machine",
+      "weight": 60.0,
+      "reps": 12,
+      "sets": 3,
+      "exertion": 2160.0
+    },
+    {
+      "group": "Push",
+      "exercise": "Bench Press",
+      "weight": 50.0,
+      "reps": 12,
+      "sets": 4,
+      "exertion": 2400.0
+    },
+    {
+      "group": "Pull",
+      "exercise": "Hammer Curl",
+      "weight": 20.0,
+      "reps": 12,
+      "sets": 4,
+      "exertion": 960.0
+    }
+  ]
+}
